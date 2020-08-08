@@ -1,4 +1,4 @@
-### Hi there! Hope you're having a great day! 👋
+### Hi there! Hope you're having a great day! 🙏
 
 # About me
 Second year student of studies towards an engineering in Computer Sciences. 

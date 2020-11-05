@@ -2,7 +2,7 @@
 
 # About me
 Second year student of studies towards an engineering in Computer Sciences. 
-Ambitius person who love to learn new things and solve problems which gives me huge motivation to increase and learn new skills.
+Ambitious person who love to learn new things and solve problems which gives me huge motivation to increase and learn new skills.
 <!--
 **TheItaroshi/TheItaroshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

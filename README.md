@@ -1,19 +1,14 @@
-### Hi there! Hope you're having a great day! 🙏
+# Hi, I'm Patryk
 
-# About me
-Third year student of studies towards an engineering in Computer Sciences. 
-Ambitious person who love to learn new things and solve problems which gives me huge motivation to increase and learn new skills.
-<!--
-**TheItaroshi/TheItaroshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in Wrocław, Poland.
 
-Here are some ideas to get you started:
+This GitHub contains my personal projects and earlier programming work, including Python web applications built with Flask and Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [Login History — Flask & Vue](https://github.com/TheItaroshi/Python-Login-History---Flask-Vue) — a web application for viewing user login history.
+- [Family Budget — Django](https://github.com/TheItaroshi/family_budget_django) — a small application for managing a family budget.
+
+## Earlier work
+
+[Studies](https://github.com/TheItaroshi/Studies) collects university assignments and small programming experiments.

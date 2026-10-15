@@ -1,14 +1,20 @@
-# Hi, I'm Patryk
+# Hi, I'm Patryk 👋
 
-Based in Wrocław, Poland.
+I'm a **Python Software Engineer** based in Wrocław, Poland. I build backend services, internal developer tools, and automation that helps engineering teams work more effectively.
 
-This GitHub contains my personal projects and earlier programming work, including Python web applications built with Flask and Django.
+My professional experience spans **Apple, Nokia, and OneMarketData**, where I've worked on engineering tools, web applications, automation frameworks, and data-processing systems.
 
-## Projects
+### What I work with
 
-- [Login History — Flask & Vue](https://github.com/TheItaroshi/Python-Login-History---Flask-Vue) — a web application for viewing user login history.
-- [Family Budget — Django](https://github.com/TheItaroshi/family_budget_django) — a small application for managing a family budget.
+- **Backend & services:** Python, FastAPI, REST APIs, Redis, Celery, Kafka
+- **Engineering tools & automation:** Selenium, Playwright, Robot Framework, PySide6
+- **Data & workflows:** Apache Airflow, Grafana, data visualization
+- **Web:** JavaScript, Vue, and some React experience
 
-## Earlier work
+### About this GitHub
 
-[Studies](https://github.com/TheItaroshi/Studies) collects university assignments and small programming experiments.
+Most of my production work has been developed in private company repositories, so the projects here represent personal experiments, learning, and selected side projects rather than my full professional experience.
+
+I'm particularly interested in Python backend engineering, developer tooling, and building software that solves practical problems.
+
+📍 Wrocław, Poland · Open to remote opportunities

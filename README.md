@@ -1,19 +1,16 @@
-### Hi there! Hope you're having a great day! 🙏
+# Hi, I'm Patryk
 
-# About me
-Third year student of studies towards an engineering in Computer Sciences. 
-Ambitious person who love to learn new things and solve problems which gives me huge motivation to increase and learn new skills.
-<!--
-**TheItaroshi/TheItaroshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Python Software Engineer** based in Wrocław, Poland. I build backend services, internal developer tools, and automation for engineering teams.
 
-Here are some ideas to get you started:
+I've worked at **Apple, Nokia, and OneMarketData** on engineering tools, web applications, automation frameworks, and data-processing systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+- **Backend:** Python, FastAPI, REST APIs, Redis, Celery, Kafka
+- **Automation & tooling:** Selenium, Playwright, Robot Framework, PySide6
+- **Data & workflows:** Apache Airflow, Grafana, data visualization
+- **Web:** JavaScript, Vue, React (personal projects)
+
+### About this GitHub
+
+Most of my production work lives in private company repositories, so the projects here are a selection of personal work rather than a complete picture of my professional experience.

@@ -1,20 +1,16 @@
-# Hi, I'm Patryk 👋
+# Hi, I'm Patryk
 
-I'm a **Python Software Engineer** based in Wrocław, Poland. I build backend services, internal developer tools, and automation that helps engineering teams work more effectively.
+I'm a **Python Software Engineer** based in Wrocław, Poland. I build backend services, internal developer tools, and automation for engineering teams.
 
-My professional experience spans **Apple, Nokia, and OneMarketData**, where I've worked on engineering tools, web applications, automation frameworks, and data-processing systems.
+I've worked at **Apple, Nokia, and OneMarketData** on engineering tools, web applications, automation frameworks, and data-processing systems.
 
-### What I work with
+### Technologies
 
-- **Backend & services:** Python, FastAPI, REST APIs, Redis, Celery, Kafka
-- **Engineering tools & automation:** Selenium, Playwright, Robot Framework, PySide6
+- **Backend:** Python, FastAPI, REST APIs, Redis, Celery, Kafka
+- **Automation & tooling:** Selenium, Playwright, Robot Framework, PySide6
 - **Data & workflows:** Apache Airflow, Grafana, data visualization
-- **Web:** JavaScript, Vue, and some React experience
+- **Web:** JavaScript, Vue, React (personal projects)
 
 ### About this GitHub
 
-Most of my production work has been developed in private company repositories, so the projects here represent personal experiments, learning, and selected side projects rather than my full professional experience.
-
-I'm particularly interested in Python backend engineering, developer tooling, and building software that solves practical problems.
-
-📍 Wrocław, Poland · Open to remote opportunities
+Most of my production work lives in private company repositories, so the projects here are a selection of personal work rather than a complete picture of my professional experience.
